@@ -1,6 +1,7 @@
 # Mars-Rover
 
 Project for Engage 2020 
+( Please find the technical report for the project in the Mars Rover Documents folder )
 
 Video demo of how the code runs: 
 
@@ -18,7 +19,7 @@ Video demo of how the code runs:
 4. A* Algorithm:
 ![Alt text](https://user-images.githubusercontent.com/66907649/88384502-28cf8d00-cdca-11ea-892b-0395c382f7b2.png)
 
-We considered the obstacles as craters/elevation/depression on the Mars surface and hence if the destination point lies on or in the crater shortest path will be found accordingly.
+We considered the obstacles as craters/elevation/depression on the Mars surface and hence if the destination point lies on or in the crater shortest path will be found accordingly. When either of the two points are inside the crater, the path followed to enter a crater would be through one of the vertex.
 
 All the files should be placed in one folder and the finalpygame file should be executed on the IDE.
 
