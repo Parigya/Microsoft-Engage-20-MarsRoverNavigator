@@ -1,6 +1,6 @@
 # Mars-Rover
 
-##Project for Engage 2020 
+Project for Engage 2020 
 
 Video demo of how the code runs
 
